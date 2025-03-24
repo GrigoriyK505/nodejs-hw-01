@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "7dbdd0df-8c15-45a8-9f3e-3107524bbf54",
+    "name": "Kelli Collier",
+    "phone": "363.525.8847 x004",
+    "email": "Madelynn3@gmail.com",
+    "job": "Human Paradigm Representative"
+  },
+  {
+    "id": "1b289aad-18e0-456d-9ec0-39b6faa89cac",
+    "name": "Karl Schinner",
+    "phone": "(824) 514-7005 x0963",
+    "email": "Buster.Pouros-Jacobson99@yahoo.com",
+    "job": "Chief Mobility Orchestrator"
+  },
+  {
+    "id": "42a468b0-6045-47f7-afc3-c97e9fcbe5fa",
+    "name": "Allen Mills",
+    "phone": "1-596-946-4519 x8674",
+    "email": "Darren.Morar55@gmail.com",
+    "job": "Human Brand Agent"
+  },
+  {
+    "id": "cf304e97-6d77-480c-b9ed-475edfc9273a",
+    "name": "Mattie Larkin",
+    "phone": "(827) 452-1047 x997",
+    "email": "Josue74@yahoo.com",
+    "job": "Global Brand Manager"
+  },
+  {
+    "id": "d147bea1-b843-4365-8471-39add9804be3",
+    "name": "Joe Cummerata-Hand",
+    "phone": "(423) 545-6334 x20898",
+    "email": "Brigitte1@hotmail.com",
+    "job": "Internal Accounts Liaison"
+  }
+]
